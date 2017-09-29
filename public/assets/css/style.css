@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(255, 233, 143);
+}
+
+.burger-add
+{
+    padding: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(243, 156, 18);
+    border-bottom: 10px solid rgb(226, 146, 17);
+    color: #000;
+}
+
+.burger-form
+{
+    background-color: rgb(255, 193, 9);
+    padding: 5px;
+}
+
+.burger-form p
+{
+    font-weight: bold;
+    margin: 0 5px 0 0;
+}
+
+.burger-form input
+{
+    background-color: rgb(255, 233, 143);;
+    border: 1px solid black;
+}
+
+.burger-list li
+{
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffc109;
+    border-left: solid 2px #e29211;
+    list-style-type: none;
+}
+
+.burger-devour
+{
+    
+}
